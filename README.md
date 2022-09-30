@@ -20,7 +20,7 @@ Portfolio Optimization with Python using Efficient Frontier with Practical Examp
 ## Graphical output
 
 <p align="center">
-    <img width=60% src="https://github.com/enginance/Modern-Portfolio-Theory/blob/main/EfficientFrontier_domain.png">
+    <img width=60% src="https://github.com/enginance/Modern-Portfolio-Theory/blob/main/images/EfficientFrontier_domain.png">
 </p>
 
 
