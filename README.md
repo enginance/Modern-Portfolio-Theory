@@ -15,6 +15,16 @@
 
 Portfolio Optimization with Python using Efficient Frontier with Practical Examples. Modern Portfolio Theory (MPT), or also known as mean-variance analysis is a mathematical process which allows the user to maximize returns for a given risk level. # It was formulated by H. Markowitz and while it is not the only optimization technique known, it is the most widely used.
 
+
+
+## Graphical output
+
+<p align="center">
+    <img width=60% src="https://github.com/enginance/Modern-Portfolio-Theory/blob/main/EfficientFrontier_domain.png">
+</p>
+
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following:
